@@ -67,7 +67,7 @@ header {
     animation-name: dropHeader;
     animation-iteration-count: 1;
     animation-timing-function: ease;
-    animation-duration: 0.75s
+    animation-duration: 0.50s
 }
 
 header ul {
